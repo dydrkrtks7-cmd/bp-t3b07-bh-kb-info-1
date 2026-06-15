@@ -2,13 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://dydrkrtks7-cmd.github.io/bp-t3b07-bh-kb-info-1/</loc>
-    <lastmod>2026-06-11</lastmod>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://dydrkrtks7-cmd.github.io/bp-t3b07-bh-kb-info-1/posts/guide-001-1rlwkgx.html</loc>
     <lastmod>2026-06-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://dydrkrtks7-cmd.github.io/bp-t3b07-bh-kb-info-1/posts/qa-001-qpd76j.html</loc>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -20,7 +26,7 @@
   </url>
   <url>
     <loc>https://dydrkrtks7-cmd.github.io/bp-t3b07-bh-kb-info-1/feed.xml</loc>
-    <lastmod>2026-06-11</lastmod>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
